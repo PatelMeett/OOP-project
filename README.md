@@ -1,7 +1,7 @@
 # OOP-project
 ## BlackJack game
 
-###Game Play
+### Game Play
 To play a hand of Blackjack the following steps must be followed:
 
 - Create a deck of 52 cards
